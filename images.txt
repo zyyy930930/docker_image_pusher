@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #neo4j:3.5
 #minio/minio
-openjdk:8
+elasticsearch:7.10.1
 #支持指定架构
 #--platform=linux/arm64 yanggq/alist
 --platform=castle
