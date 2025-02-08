@@ -1,5 +1,11 @@
-nginx
+#nginx
 #支持私库
-python
+#python
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#elasticsearch
+elasticsearch:7.10.1
+#skywalking-ui
+apache/skywalking-ui:latest
+#skywalking
+apache/skywalking-oap-server:latest
