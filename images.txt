@@ -4,8 +4,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #elasticsearch
-elasticsearch:7.10.1
+#elasticsearch:7.10.1
 #skywalking-ui
-apache/skywalking-ui:latest
+#apache/skywalking-ui:latest
 #skywalking
-apache/skywalking-oap-server:latest
+#apache/skywalking-oap-server:latest
+openjdk:21
