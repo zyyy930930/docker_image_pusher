@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #neo4j:3.5
 #minio/minio
-openjdk:8
+#openjdk:8
+registry:2
 #支持指定架构
 #--platform=linux/arm64 yanggq/alist
 --platform=castle
