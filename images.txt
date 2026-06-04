@@ -10,4 +10,5 @@
 #skywalking
 #apache/skywalking-oap-server:latest
 #openjdk:21
-registry:2
+#registry:2
+openkylin/claude-code:2.1.81
