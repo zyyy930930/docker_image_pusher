@@ -12,4 +12,5 @@
 #openjdk:21
 #registry:2
 #test
-openkylin/claude-code:2.1.81
+#openkylin/claude-code:2.1.81
+node:18-alpine 
