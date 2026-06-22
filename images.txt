@@ -13,4 +13,5 @@
 #registry:2
 #test
 #openkylin/claude-code:2.1.81
-node:18-alpine 
+#node:18-alpine 
+milvusdb/milvus:latest
