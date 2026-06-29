@@ -15,4 +15,4 @@
 #openkylin/claude-code:2.1.81
 #node:18-alpine 
 #milvusdb/milvus:latest
-openclaw/core
+ghcr.io/openclaw/openclaw:latest
